@@ -4,21 +4,22 @@
     background-color: #FF9999;
     color: black;
     font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 
 }
 
 .odd-text#three {
-    font-size:xx-large;
+    font-size: 24px;
 }
 
 #two {
-    font-size: xxx-large;
+    font-size: 36px;
     color: blue;
 
 }
 
 #four {
-    font-size: xx-large;
+    font-size: 24px;
     font-weight: bold;
     background-color: #99FF99;
 
