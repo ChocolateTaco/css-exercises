@@ -1,0 +1,25 @@
+/* Row numbers 1, 3, 5 are similar. With the exception that 3 is larger */
+
+.odd-text {
+    background-color: #FF9999;
+    color: black;
+    font-size: x-large;
+
+}
+
+.odd-text#three {
+    font-size:xx-large;
+}
+
+#two {
+    font-size: xxx-large;
+    color: blue;
+
+}
+
+#four {
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: #99FF99;
+
+}
